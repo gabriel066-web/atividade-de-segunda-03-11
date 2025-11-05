@@ -1,0 +1,15 @@
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/app.AssemblyInfo.cs
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/app.sourcelink.json
+/workspaces/atividade-de-segunda-03-11/bin/Debug/net8.0/app
+/workspaces/atividade-de-segunda-03-11/bin/Debug/net8.0/app.deps.json
+/workspaces/atividade-de-segunda-03-11/bin/Debug/net8.0/app.runtimeconfig.json
+/workspaces/atividade-de-segunda-03-11/bin/Debug/net8.0/app.dll
+/workspaces/atividade-de-segunda-03-11/bin/Debug/net8.0/app.pdb
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/app.dll
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/refint/app.dll
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/app.pdb
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/app.genruntimeconfig.cache
+/workspaces/atividade-de-segunda-03-11/obj/Debug/net8.0/ref/app.dll
